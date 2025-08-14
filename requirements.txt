@@ -1,0 +1,6 @@
+numpy
+pybullet
+gymnasium>=0.29,<1.0
+stable-baselines3[extra]>=2.3,<3.0
+torch
+matplotlib
